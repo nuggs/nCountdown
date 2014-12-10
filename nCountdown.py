@@ -80,7 +80,7 @@ def updateCountdown(count):
 
     if count == 5:
         countdown = 4
-        ac.sendChatMessage('Get ready to launch on GO!')
+        ac.sendChatMessage('Get ready...')
     elif count == 4:
         countdown = 3
         ac.sendChatMessage('3')
