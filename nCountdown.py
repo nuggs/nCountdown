@@ -29,8 +29,6 @@
 import ac
 import acsys
 import functools
-import sched
-import time
 
 appWindow = None
 nButton = None
